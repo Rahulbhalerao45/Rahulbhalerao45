@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Rahulbhalerao45
-- 👀 I’m interested in  web development
-- 🌱 I’m currently learning React Js
-- 💞️ I’m looking to collaborate on Freelancing projects  
+- 👋 Hi, I’m @Rahulbhalerao45 working as a curious Software Engineer at Persistent Systems.
+- 👀 With 2+ years of experience in Java and Spring boot development.
+- 🌱Worked on creating multiple connectors for Google and ElasticSearch.
+- 💞️ Have worked on integration bw Java apps and LLMs.
 - 📫 How to reach me ...rahul45bhalerao@gmail.com
 
 <!---
